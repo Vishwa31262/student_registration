@@ -10,10 +10,12 @@ This is a simple web app built with Django to register and list students.
 ## 🖼️ Screenshots
 
 ### Registration Form
-![Registration Form](images/Stpro1.png)
+![Registration Form](![Stpro1](https://github.com/user-attachments/assets/d27adcca-8970-4f46-a770-7b63aa7eb9aa)
+)
 
 ### Student List
-![Student List](images/Stpro2.png)
+![Student List](![stpro2](https://github.com/user-attachments/assets/a50d63f4-0dfc-4f7a-ad38-540e213dbc89)
+)
 
 ## 📦 Tech Stack
 
