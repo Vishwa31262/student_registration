@@ -1,0 +1,18 @@
+# Bytecode
+*.pyc
+__pycache__/
+
+# Django database
+db.sqlite3
+
+# Environment
+.env
+venv/
+*.log
+
+# Media/static
+staticfiles/
+media/
+
+# VSCode config
+.vscode/
